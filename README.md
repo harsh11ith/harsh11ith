@@ -3,8 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harsh.thhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshith11) [![LeetCode](https://img.shields.io/badge/LeetCode-%23f9a825.svg?logo=leetcode&logoColor=white)](https://leetcode.com/codehelloworld) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith11)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23f9a825.svg?logo=leetcode&logoColor=white)](https://leetcode.com/codehelloworld)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harsh.thhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshith11) [![LeetCode](https://img.shields.io/badge/LeetCode-%23f9a825.svg?logo=leetcode&logoColor=white)](https://leetcode.com/codehelloworld) 
 
 
 
