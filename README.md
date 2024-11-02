@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh11ith&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4)
 
+## 🏆 Leetcode
+![LeetCode Progress](https://img.shields.io/badge/LeetCode%20Solutions-42-brightgreen)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
