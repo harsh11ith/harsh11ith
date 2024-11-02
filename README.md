@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Harshith J:
+# 👋 Hi, I'm Harshith J
 🎓 MCA Student at PES University<br>💻 Software Engineering Enthusiast<br>📈 Currently focused on advancing my coding skills and deepening my knowledge of emerging technologies.<br>🫱🏼‍🫲🏾 I am excited to collaborate with fellow developers and contribute to impactful projects.<br>✨ I can code while enjoying my favorite music playlist.<br>🚀 Feel free to reach out and connect!
 
 
